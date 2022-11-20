@@ -1,0 +1,8 @@
+name: HideAndSheek
+version: '${project.version}'
+main: hideandsheek.hideandsheek.HideAndSheek
+api-version: 1.19
+
+commands:
+  azgame:
+    description: ゲームスタート
